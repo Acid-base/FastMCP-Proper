@@ -1,5 +1,6 @@
-"""My Package module."""
+# src/mcp_server_package/__init__.py
 
-from .module import add, greet, DataProcessor
+# Keep this file empty or optionally expose core components like the server instance
 
-__all__ = ["add", "greet", "DataProcessor"]
+# from .server import mcp_server_instance
+# __all__ = ["mcp_server_instance"]
